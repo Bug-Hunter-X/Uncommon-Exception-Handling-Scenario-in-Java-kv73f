@@ -1,0 +1,1 @@
+This repository contains a Java example demonstrating an uncommon scenario in exception handling. The primary focus is not the ArithmeticException itself, which is quite common, but the possibility of other, unexpected exceptions during the process of handling the ArithmeticException. The provided solution shows robust exception handling and logging practices.
